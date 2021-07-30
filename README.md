@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hi there 👋
 
-## About Me :sunglasses:
+### About Me :sunglasses:
 
 I'm __Rajbir Banerjee__ a __*B.tech*__ undergrad student in __*Electronics and Communication Engineering*__ at __Cooch Behar Government Engineering College (C.G.E.C)__ with a profilic knowledge in C,C++,JavaScript,Web development,Git,Reactjs,Nodejs,Python.
 <!--

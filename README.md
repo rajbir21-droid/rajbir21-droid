@@ -2,7 +2,7 @@
 ### Hi there 👋
 ## About Me :sunglasses:
 
-T'm __Rajbir Banerjee__ a __*B.tech*__ undergrad student in __*Electronics and Communication Engineering* at __*Cooch Behar Government Engineering College*__
+I'm __Rajbir Banerjee__ a __*B.tech*__ undergrad student in __*Electronics and Communication Engineering*__ at __Cooch Behar Government Engineering College (C.G.E.C)__ with a profilic knowledge in C,C++,JavaScript,Web development,Git.
 <!--
 **rajbir21-droid/rajbir21-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

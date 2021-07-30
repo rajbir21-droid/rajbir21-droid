@@ -5,7 +5,7 @@
 
 ## About Me :sunglasses:
 
-I'm __Rajbir Banerjee__ a __*B.tech*__ undergrad student in __*Electronics and Communication Engineering*__ at __Cooch Behar Government Engineering College (C.G.E.C)__ with a profilic knowledge in C,C++,JavaScript,Web development,Git.
+I'm __Rajbir Banerjee__ a __*B.tech*__ undergrad student in __*Electronics and Communication Engineering*__ at __Cooch Behar Government Engineering College (C.G.E.C)__ with a profilic knowledge in C,C++,JavaScript,Web development,Git,Reactjs,Nodejs,Python.
 <!--
 **rajbir21-droid/rajbir21-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +20,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :books: **Languages and Tech Stack** -
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/-blue?style=flat-pill&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/++-darkblue?style=flat-pill&logo=C&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=flat-pill&logo=javascript&logo_color=000000" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-pill&logo=Python&logoColor=white" />
+  <img alt="Github Actions" src="https://raster.shields.io/badge/-Github Actions-181717?style=flat-pill&logo=github&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-darkorange?style=flat-pill&logo=firebase&logoColor=white" />
+
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-pill&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-rgb(15 181 84)?style=flat-pill&logo=mongodb&logoColor=white" />
+
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-pill&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-pill&logo=GitHub&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-5DDDFF?style=flat-pill&logo=react&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-0066B8?style=flat-pill&logo=visual-studio-code" />
+</p>

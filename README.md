@@ -1,6 +1,8 @@
-<img src="https://github.com/rajbir21-droid/rajbir21-droid/blob/main/Header.PNG" width="100%" >
+#<img src="https://github.com/rajbir21-droid/rajbir21-droid/blob/main/Header.PNG" width="100%" >
 ### Hi there 👋
+## About Me :sunglasses:
 
+T'm __Rajbir Banerjee__ a __*B.tech*__ undergrad student in __*Electronics and Communication Engineering* at __*Cooch Behar Government Engineering College*__
 <!--
 **rajbir21-droid/rajbir21-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

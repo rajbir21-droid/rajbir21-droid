@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/Rajbir Banerjee/Rajbir Banerjee/main/readme_header.png "Header")](https://some-url.dev/)
+
 ### Hi there 👋
 
 <!--
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/Rajbir Banerjee/Rajbir Banerjee/main/readme_header.png "Header")](https://some-url.dev/)

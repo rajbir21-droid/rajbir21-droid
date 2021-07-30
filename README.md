@@ -47,9 +47,13 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-souravrax-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravrax/)](https://www.linkedin.com/in/souravrax/)
+
 [![Leetcode Badge](https://img.shields.io/badge/-banerjeerajbir2888-F89F1B?style=flat-pill&logo=leetcode&logoColor=white&link=https://leetcode.com/banerjeerajbir2888/)](https://leetcode.com/banerjeerajbir2888/)
+  
 [![Codechef Badge](https://img.shields.io/badge/-rajbir21-brown?style=flat-pill&logo=codechef&logoColor=white&link=https://www.codechef.com/users/rajbir21)](https://www.codechef.com/users/rajbir21)
+  
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

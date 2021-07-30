@@ -1,4 +1,4 @@
-#<img src="https://github.com/rajbir21-droid/rajbir21-droid/blob/main/Header.PNG" width="100%" >
+<img src="https://github.com/rajbir21-droid/rajbir21-droid/blob/main/Header.PNG" width="100%" >
 ### Hi there 👋
 ## About Me :sunglasses:
 

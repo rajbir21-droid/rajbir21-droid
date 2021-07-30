@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   <img alt="React" src="https://img.shields.io/badge/-React-5DDDFF?style=flat-pill&logo=react&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-0066B8?style=flat-pill&logo=visual-studio-code" />
 </p>
+
+
 - :open_mouth: You can ask me anything about  **Programming**,**Web Development**, **Open Source Contribution**.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -45,10 +47,13 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-<a href="https://www.linkedin.com/in/rajbir-banerjee-9ba7721a7/" target="_blank"><img alt="Rajbir Banerjee | LinkedIn" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/rajbir-banerjee-9ba7721a7/" target="_blank"><img alt="Rajbir Banerjee | LinkedIn" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/></a>
 <a href="https://www.instagram.com/jeet_banerjee7107/" target="_blank"><img alt="Rajbir Banerjee | Instagram" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/jeet.banerjee.7121" target="_blank"><img alt="Rajbir Banerjee | Facebook" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" /></a>
 </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## GitHub Stats :medal_military:
 
 <img align="left" alt="rajbir21-droid Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajbir21-droid&&show_icons=true&theme=dark" width="50%" />

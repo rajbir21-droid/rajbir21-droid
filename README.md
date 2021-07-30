@@ -37,7 +37,10 @@ Here are some ideas to get you started:
   <img alt="React" src="https://img.shields.io/badge/-React-5DDDFF?style=flat-pill&logo=react&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-0066B8?style=flat-pill&logo=visual-studio-code" />
 </p>
-- :open_mouth: You can ask me anything about **Programming**,**Web Development**, **Open Source Contribution**.
+- :open_mouth: You can ask me anything about  **Programming**,**Web Development**, **Open Source Contribution**.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Follow Me On 💬:
 
 <br/>

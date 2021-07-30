@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-<a href="https://www.linkedin.com/in/rajbir-banerjee-9ba7721a7/" target="_blank"><img alt="Rajbir Banerjee | LinkedIn" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/></a>
-<a href="https://www.instagram.com/jeet_banerjee7107/" target="_blank"><img alt="Rajbir Banerjee | Instagram" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/jeet.banerjee.7121" target="_blank"><img alt="Rajbir Banerjee | Facebook" height="40px" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-souravrax-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravrax/)](https://www.linkedin.com/in/souravrax/)
+[![Leetcode Badge](https://img.shields.io/badge/-banerjeerajbir2888-F89F1B?style=flat-pill&logo=leetcode&logoColor=white&link=https://leetcode.com/banerjeerajbir2888/)](https://leetcode.com/banerjeerajbir2888/)
+[![Codechef Badge](https://img.shields.io/badge/-rajbir21-brown?style=flat-pill&logo=codechef&logoColor=white&link=https://www.codechef.com/users/rajbir21)](https://www.codechef.com/users/rajbir21)
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

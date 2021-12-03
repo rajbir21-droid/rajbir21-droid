@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-0066B8?style=flat-pill&logo=visual-studio-code" />
 </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK and ML**
 - :open_mouth: You can ask me anything about  **Programming**,**Web Development**, **Open Source Contribution**.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
